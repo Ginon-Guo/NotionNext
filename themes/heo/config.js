@@ -62,8 +62,8 @@ const CONFIG = {
       title_1: 'Btc',
       img_1: '/images/heo/btc.webp',
       color_1: '#989bf8',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      title_2: 'Eth',
+      img_2: '/images/heo/eth.webp',
       color_2: '#ffffff'
     },
     {
@@ -91,8 +91,8 @@ const CONFIG = {
       color_2: '#8f55ba'
     },
     {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
+      title_1: 'Sol',
+      img_1: '/images/heo/sol.webp',
       color_1: '#f29e39',
       title_2: 'CSS3',
       img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
@@ -110,8 +110,8 @@ const CONFIG = {
       title_1: 'Git',
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      title_2: 'Doge',
+      img_2: '/images/heo/doge.webp',
       color_2: '#1f1f1f'
     }
   ],
