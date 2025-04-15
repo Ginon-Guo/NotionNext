@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-04-15', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '加密区块',
-  HEO_HERO_TITLE_2: '分享去中心化',
+  HEO_HERO_TITLE_2: '探索去中心',
   HEO_HERO_TITLE_3: 'Ginon',
   HEO_HERO_TITLE_4: '今日行情',
   HEO_HERO_TITLE_5: 'Today Cryptocurrency Prices',
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/Ginon-Guo',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://ginon-notion.vercel.app',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -62,21 +62,21 @@ const CONFIG = {
       title_1: 'Btc',
       img_1: '/images/heo/btc.webp',
       color_1: '#989bf8',
-      title_2: 'Eth',
-      img_2: '/images/heo/eth.webp',
+      title_2: 'Metamask',
+      img_2: '/images/heo/Metamask.webp',
       color_2: '#ffffff'
     },
     {
       title_1: 'Docker',
       img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
       color_1: '#57b6e6',
-      title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      title_2: 'Chainlink',
+      img_2: '/images/heo/chainlink.webp',
       color_2: '#4082c3'
     },
     {
-      title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      title_1: 'Eth',
+      img_1: '/images/heo/eth.webp',
       color_1: '#ffffff',
       title_2: 'Python',
       img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
@@ -86,14 +86,14 @@ const CONFIG = {
       title_1: 'Swift',
       img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
       color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      title_2: 'Truffle',
+      img_2: '/images/heo/truffle.webp',
       color_2: '#8f55ba'
     },
     {
       title_1: 'Sol',
       img_1: '/images/heo/sol.webp',
-      color_1: '#f29e39',
+      color_1: '#000000',
       title_2: 'CSS3',
       img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
       color_2: '#2c51db'
