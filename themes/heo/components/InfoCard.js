@@ -44,6 +44,14 @@ export function InfoCard(props) {
 
       {/* 公告栏 */}
       <Announcement post={notice} style={{ color: 'white !important' }} />
+      
+      <div className='flex justify-between'>
+        <iframe
+          src="https://linktr.ee/ginonguo"
+          className="w-full h-[400px] rounded-lg border-none"
+          allowFullScreen
+        />
+      </div>
 
       <div className='flex justify-between'>
         <div className='flex space-x-3  hover:text-black dark:hover:text-white'>
