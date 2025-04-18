@@ -28,7 +28,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '文章精选', url: '/tag/必看精选' },
+  HEO_HERO_CATEGORY_1: { title: '精选推荐', url: '/tag/推荐' },
   HEO_HERO_CATEGORY_2: { title: '热门项目', url: 'https://www.rootdata.com/' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
